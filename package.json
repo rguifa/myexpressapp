@@ -1,0 +1,14 @@
+{
+  "name": "myexpressapp",
+  "version": "1.0.0",
+  "description": "Firs express server from scratch with nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rubens Guifarro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
